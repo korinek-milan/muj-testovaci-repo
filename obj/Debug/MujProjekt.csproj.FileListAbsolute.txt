@@ -1,0 +1,7 @@
+C:\Users\korinek\source\repos\MujProjekt\bin\Debug\MujProjekt.exe.config
+C:\Users\korinek\source\repos\MujProjekt\bin\Debug\MujProjekt.exe
+C:\Users\korinek\source\repos\MujProjekt\bin\Debug\MujProjekt.pdb
+C:\Users\korinek\source\repos\MujProjekt\obj\Debug\MujProjekt.csproj.AssemblyReference.cache
+C:\Users\korinek\source\repos\MujProjekt\obj\Debug\MujProjekt.csproj.CoreCompileInputs.cache
+C:\Users\korinek\source\repos\MujProjekt\obj\Debug\MujProjekt.exe
+C:\Users\korinek\source\repos\MujProjekt\obj\Debug\MujProjekt.pdb
