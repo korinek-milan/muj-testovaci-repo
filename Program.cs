@@ -10,7 +10,7 @@ namespace MujProjekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ahoj");
+            Console.WriteLine("ahoj světe");
             Console.ReadLine();
         }
     }
